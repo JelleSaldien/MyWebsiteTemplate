@@ -11,8 +11,8 @@
   /* Header/logo Title */
   .header {
     padding: 80px;
-    text-align: center;
-    background: #1abc9c;
+    text-align: center; 
+    background: #257a69;
     color: white;
   }
   
